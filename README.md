@@ -4,3 +4,5 @@ Well well well, this is a collection of snippets that I have found useful. I lik
 They will cover any topic I find useful in no particuliar order.
 
 ## List
+
+- [Suspend with SWR](./snippets/pages/mexican-suspense.js)
