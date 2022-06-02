@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev snippets"
+    "dev": "next dev snippets",
+    "build": "next build snippets"
   },
   "keywords": [],
   "author": "",
