@@ -5,4 +5,5 @@ They will cover any topic I find useful in no particuliar order.
 
 ## List
 
-- [Suspend with SWR](./snippets/pages/mexican-suspense.js) (june 2nd 2020)
+- [Suspend with SWR](./snippets/pages/mexican-suspense.js) (june 2nd 2022)
+- [Swr no undefined](./snippets/pages/swr-ssr-no-undefined.js) (june 6th 2022)
